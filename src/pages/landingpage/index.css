@@ -1,0 +1,81 @@
+#menu-landingpage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+#menu-landingpage .itens-menu{
+    font-size: 1.0rem;
+    list-style: none;
+    width: fit-content;
+    height: 55px;
+    margin: 0 20px;
+
+}
+#menu-landingpage .itens-menu a{
+    color: #000;
+}
+
+#menu-landingpage .itens-menu:not(.destaque):hover{
+    color: #EF8B11;
+    border-bottom: 2px solid #EF8B11; 
+    cursor: pointer;
+}
+#menu-landingpage .itens-menu.destaque{
+    height: 55px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+#menu-landingpage .itens-menu.destaque a{
+    background: #EF8B11;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border: 2px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0 15px;   
+     
+}
+#menu-landingpage .itens-menu.destaque a:hover{
+    background: #cf7508;
+}
+#menu-landingpage .itens-menu.adm a{
+    color: #EF8B11;
+    font-weight: 500;
+}
+
+#conteudo-princial{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#conteudo-princial h1{
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 30px;
+}
+#conteudo-secundario{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#conteudo-secundario ul li{
+    font-size: 1.2rem;
+    text-align: left;
+}
+#conteudo-secundario ul li::marker{
+    font-size: 1.8rem;
+    color: #EF8B11;
+    display: flex;
+    align-items: center;
+}
+#conteudo-secundario p{
+    font-size: 1.2rem;
+}
+
