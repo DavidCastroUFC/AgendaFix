@@ -10,3 +10,7 @@
 *{
   font-family: roboto;
 }
+.anticon.anticon-search svg{
+  width: 20px;
+  height: 20px;
+}

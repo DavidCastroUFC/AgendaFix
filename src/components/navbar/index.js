@@ -1,12 +1,12 @@
 import React from 'react'
-import Logo from '../../assets/logo';
+import {Link} from 'react-router-dom';
 import { Layout,} from 'antd';
 const { Header,} = Layout;
 
 export default function Navbar({Children}){
     return(
         <Header style={{display:'flex',background:'#F0F0F0',justifyContent:'space-between',alignItems:'center'}}>
-            <Logo width={170}/>
+            <Link to="/"><img src="https://i.imgur.com/uAYLFe7.png" style={{width:180}} alt="logomarca AgendaFix"/></Link>
             {Children}
         </Header>
     );
