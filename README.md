@@ -44,5 +44,5 @@ $ yarn start or npm start
 ---
 
 <div align="center">
-<p><i>Developed by<a href="https://www.linkedin.com/in/dvdcastro/">David Castro</i></p>
+<p><i>Developed by <a href="https://www.linkedin.com/in/dvdcastro/">David Castro</i></p>
 </div>
