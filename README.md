@@ -4,7 +4,7 @@
 AGENDAFIX
 </h1>
 <!-- Subtitle/Description -->
-<h4>Agendamento de serviços automotivos</h4>
+<h4>Automotive Service Scheduling</h4>
 <p>
 <!-- Image Shields -->
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/DavidCastroUFC/AgendaFix">
@@ -14,7 +14,7 @@ AGENDAFIX
 </p>
   
 <!-- Nav Menu -->
-<a href="https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/" target="_blank">Link do protótipo da interface</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/" target="_blank">UI prototype link</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img  width="100%"  src="https://i.imgur.com/qDAsBRb.png">
 </div>
@@ -44,5 +44,5 @@ $ yarn start or npm start
 ---
 
 <div align="center">
-<p><i>Desenvolvido por <a href="https://www.linkedin.com/in/dvdcastro/">David Castro</i></p>
+<p><i>Developed by<a href="https://www.linkedin.com/in/dvdcastro/">David Castro</i></p>
 </div>
