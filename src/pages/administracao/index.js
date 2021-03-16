@@ -1,4 +1,5 @@
 import React,{useState} from 'react'
+<<<<<<< Updated upstream
 import Navbar from '../../components/navbar/index';
 import TableWithSearch from '../../components/tableWithSearch/index';
 import { Layout,Menu,Modal,Button,Input,Form,InputNumber,message,Spin} from 'antd';
@@ -150,6 +151,22 @@ export default function Administracao(){
                 <p>dsadsa</p>
                 }
                 </div>
+=======
+import ReactDOM from 'react-dom'
+import Navbar from '../../components/navbar/index';
+
+import { Layout, Typography,Menu} from 'antd';
+const {Content} = Layout;
+
+export default function Administracao(){
+
+    return(
+       
+        <>
+            <Navbar/>
+            <Content style={{padding: '20px 50px', display:'flex', alignItems:'center',flexWrap:'wrap', height: '93%', background:'#E1E1E1'}}>
+                
+>>>>>>> Stashed changes
             </Content>
         </>
     );

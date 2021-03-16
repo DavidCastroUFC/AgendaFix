@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
+<<<<<<< Updated upstream
           <Route exact path="/">
             <Home/>
           </Route>
@@ -20,6 +21,10 @@ function App() {
           <Route path="/administracao">
             <Adm/>
           </Route>
+=======
+          <Route exact path="/" children={Home}/>
+          <Route path="/administracao" children={Adm}/>
+>>>>>>> Stashed changes
         </Switch>
       </Router>
     </div>
