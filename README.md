@@ -26,7 +26,7 @@ AGENDAFIX
 - [React JS](https://pt-br.reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Firebase](https://firebase.google.com/)
-- [Figma para prototipagem de interface](www.figma.com/)
+- [Figma para prototipagem de interface](https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/)
 
 ---
 
