@@ -15,7 +15,7 @@ AGENDAFIX
   
 <!-- Nav Menu -->
 <a  href=#telescope-tecnologias>Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#information_source-how-to-use">Como usar para Testes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#information_source-how-to-use">Como usar para Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/">Link do protótipo da interface</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img  width="100%"  src="https://i.imgur.com/qDAsBRb.png">
 </div>
