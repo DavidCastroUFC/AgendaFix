@@ -16,7 +16,7 @@ AGENDAFIX
 <!-- Nav Menu -->
 <a  href=#telescope-tecnologias>Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="#information_source-how-to-use">Como usar para Testes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/">Link do protótipo da interface</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img  width="100%"  src="https://i.imgur.com/qDAsBRb.png">
 </div>
 
@@ -26,7 +26,7 @@ AGENDAFIX
 - [React JS](https://pt-br.reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Firebase](https://firebase.google.com/)
-- [Figma para prototipagem de interface](https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/)
+- [Figma](https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/)
 
 ---
 
