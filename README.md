@@ -25,6 +25,7 @@ AGENDAFIX
 - [React JS](https://pt-br.reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Firebase](https://firebase.google.com/)
+- [Axios](https://github.com/axios/axios/)
 - [Ant Design](https://ant.design/)
 - [Figma](https://www.figma.com/file/dWPhdH4M8hepJYojHW63jo/agendamento?node-id=31%3A2/)
 
