@@ -40,6 +40,9 @@ $ git clone https://github.com/DavidCastroUFC/AgendaFix.git
 # Go into the repository
 $ cd AgendaFix
 
+# Install dependencies
+$ yarn install or npm install
+
 # Start the server
 $ yarn start or npm start
 ```
